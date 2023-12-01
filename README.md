@@ -7,6 +7,8 @@
 | **Kelas**       | TI.21.A.1                    |
 | **Mata Kuliah** | Kriptografi                  |
 
+*Implementasi Python
 ![result_python](img/py.png)
 
+*Implementasi PHP
 ![result_php](img/php.png)
